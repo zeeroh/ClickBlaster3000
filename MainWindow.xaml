@@ -1,0 +1,25 @@
+﻿<Window x:Class="ClickBlaster3002.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClickBlaster3002"
+        mc:Ignorable="d"
+        Title="MainWindow" AllowsTransparency="True" WindowStyle="None" Background="Transparent" Activated="Window_Activated" Deactivated="Window_Deactivated">
+
+    <Canvas Name="canvas" HorizontalAlignment="Left" VerticalAlignment="Top">
+        <!--<Rectangle x:Name="SpriteDimension" Width="0" Height="0" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Top="-50">
+            <Rectangle.Fill>
+                <ImageBrush x:Name ="SpriteProperties" ImageSource="/images/4.png" 
+                    Stretch="None"
+                    AlignmentX="Left"
+                    AlignmentY="Top"
+                    Viewport="0,0,0,0">
+                    <ImageBrush.Transform>
+                        <TranslateTransform x:Name="SpriteSheetOffset" X="0" Y="0" />
+                    </ImageBrush.Transform>
+                </ImageBrush>
+            </Rectangle.Fill>
+        </Rectangle>-->
+    </Canvas>
+</Window>
