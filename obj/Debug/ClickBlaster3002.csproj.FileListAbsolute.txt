@@ -32,3 +32,7 @@ C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\obj\Debug\ClickBl
 C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\obj\Debug\ClickBlaster3002.pdb
 C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\bin\Debug\Gma.System.MouseKeyHook.dll
 C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\obj\Debug\ClickBlaster3002.csproj.CopyComplete
+C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\bin\Debug\Hardcodet.NotifyIcon.Wpf.dll
+C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\bin\Debug\Hardcodet.NotifyIcon.Wpf.xml
+C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\obj\Debug\Dictionary1.baml
+C:\Users\Taylor\Desktop\code\ClickBlaster3002\ClickBlaster3002\obj\Debug\App.baml

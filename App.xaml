@@ -4,6 +4,11 @@
              xmlns:local="clr-namespace:ClickBlaster3002"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <!-- merge NotifyIcon and related stuff into the application -->
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Dictionary1.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
